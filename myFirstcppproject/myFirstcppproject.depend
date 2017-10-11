@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1507183699 source:c:\users\hp-\documents\c++ progs\myfirstcppproject\circle.cpp
+	"circle.h"
+
+1507183699 c:\users\hp-\documents\c++ progs\myfirstcppproject\circle.h
+
+1507184908 source:c:\users\hp-\documents\c++ progs\myfirstcppproject\main.cpp
+	<iostream>
+	"circle.h"
+
